@@ -35,9 +35,11 @@ This repository relies on several Python packages for implementing optimal trans
 - [**OTT**](https://ott-jax.readthedocs.io): A library for scalable optimal transport in machine learning.
 - [**POT**](https://pythonot.github.io): Python Optimal Transport library.
 
+```
 @article{OTK2024,
   title={A class of kernel-based scalable algorithms for data science},
   author={Philippe G. LeFloch, Jean-Marc Mercier, Shohruh Miryusupov},
   journal={arXiv preprint arXiv:2410.14323},
   year={2024}
 }
+```
