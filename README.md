@@ -18,7 +18,7 @@ Click the links below to open the corresponding Jupyter notebooks directly in Gi
 3. [Multiscale MNIST Example](./examples/multiscaleMNIST_example.ipynb): Explores multiscale methods on the MNIST dataset.
 4. [Multiscale OT Example](./examples/multiscaleOT_example.ipynb): Provides a detailed study of multiscale optimal transport.
 5. [Bachelier Example](./examples/bachelier_example.ipynb): Demonstrates the application of optimal transport kernels in the Bachelier problem.
-6. [Convergence experiment](./examples/1NN_estimation_rate.ipynb): Study the convergence of various Optima Transport methods. Note : this file is a slight modification of this [file](https://github.com/APooladian/1NN_MapEstimator), kindly made public by the authors, see also the corresponding paper of [Pooladian-Wiles](https://arxiv.org/abs/2109.12004).
+6. [Convergence experiment](./examples/1NN_estimation_rate.ipynb): Study the convergence of various Optimal Transport methods. Note : this file is a slight modification of this [file](https://github.com/APooladian/1NN_MapEstimator), kindly made public by the authors, see also the corresponding paper of [Pooladian, Niles-Weed](https://arxiv.org/abs/2109.12004).
 
 ---
 
