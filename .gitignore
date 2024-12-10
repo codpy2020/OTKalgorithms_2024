@@ -2,3 +2,4 @@
 .build
 *CodPyTempFigs*
 *.xml
+__pychache__/
