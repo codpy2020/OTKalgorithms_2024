@@ -9,6 +9,16 @@ The experiments are presented in the form of Jupyter notebooks (`.ipynb`), demon
 
 ## Contents
 
+### Installation
+
+This repository is tested under Windows 11 / Python 3.9 :
+- Clone the repository. 
+- Open a command, move to the clone directory
+- Then
+```
+pip install -r requirements.txt
+```
+
 ### Jupyter Notebooks
 
 Click the links below to open the corresponding Jupyter notebooks directly in GitHub:
