@@ -1,7 +1,7 @@
 # A class of kernel-based scalable algorithms for data science, 2024
 
 This repository contains the experiments conducted for the paper:  
-[A class of kernel-based scalable algorithms for data science](https://arxiv.org/abs/2410.14323).
+[A class of kernel-based scalable algorithms for data science](https://drive.google.com/file/d/1Jr5mVyWyA0k3MZH-Qxn2oGS0C2ley_yF/view?usp=drive_link).
 
 The experiments are presented in the form of Jupyter notebooks (`.ipynb`), demonstrating the concepts and algorithms described in the paper.
 
