@@ -13,12 +13,12 @@ The experiments are presented in the form of Jupyter notebooks (`.ipynb`), demon
 
 Click the links below to open the corresponding Jupyter notebooks directly in GitHub:
  
-1. [Clustering Example](./clustering_example.ipynb): Illustrates the experiments on clustering tasks.
-2. [MNIST Example](./MNIST_example.ipynb): Showcases experiments with the MNIST dataset.
-3. [Multiscale MNIST Example](./multiscaleMNIST_example.ipynb): Explores multiscale methods on the MNIST dataset.
-4. [Multiscale OT Example](./multiscaleOT_example.ipynb): Provides a detailed study of multiscale optimal transport.
-5. [Bachelier Example](./bachelier_example.ipynb): Demonstrates the application of optimal transport kernels in the Bachelier problem.
-6. [Convergence experiment](./1NN_estimation_rate.ipynb): Study the convergence of various Optima Transport methods. Note : this file is a slight modification of this [file](https://github.com/APooladian/1NN_MapEstimator), kindly made public by the authors, see also the corresponding paper of [Pooladian-Wiles](https://arxiv.org/abs/2109.12004).
+1. [Clustering Example](./examples/clustering_example.ipynb): Illustrates the experiments on clustering tasks.
+2. [MNIST Example](./examples/MNIST_example.ipynb): Showcases experiments with the MNIST dataset.
+3. [Multiscale MNIST Example](./examples/multiscaleMNIST_example.ipynb): Explores multiscale methods on the MNIST dataset.
+4. [Multiscale OT Example](./examples/multiscaleOT_example.ipynb): Provides a detailed study of multiscale optimal transport.
+5. [Bachelier Example](./examples/bachelier_example.ipynb): Demonstrates the application of optimal transport kernels in the Bachelier problem.
+6. [Convergence experiment](./examples/1NN_estimation_rate.ipynb): Study the convergence of various Optima Transport methods. Note : this file is a slight modification of this [file](https://github.com/APooladian/1NN_MapEstimator), kindly made public by the authors, see also the corresponding paper of [Pooladian-Wiles](https://arxiv.org/abs/2109.12004).
 
 ---
 
