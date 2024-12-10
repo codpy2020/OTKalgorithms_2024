@@ -22,11 +22,6 @@ Click the links below to open the corresponding Jupyter notebooks directly in Gi
 
 ---
 
-### Data Files
-
-- `Bachelier.csv`: Dataset used in the Bachelier example.
-- `clustering.csv`: Dataset used in the clustering example.
-
 
 ## Dependencies
 
